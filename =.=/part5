@@ -1,0 +1,64 @@
+note:
+1.一一对应规则
+	@* USR
+	. .
+	: :
+	, ,
+	( (
+	) )
+	'' "
+	to TO
+	http URL
+	's POS
+2.部分高频词语
+	more RBR
+	I/you/he/she/it PRP出现概率很高，可以针对性标记
+3.改进建议：
+	①对于test中新的x词语，part2的标记方法会导致出现次数最多的tag对应emission parameter中的最小值，/
+	新单词出现，emission parameter大小和tag出现的次数成正比会比较好??
+	②下面写的包含??的我也不知道是什么
+	③可以写个英语语法检查工具，改正错误的标签
+
+
+USR User #以@开始
+UH #感叹词 lol/ahaha/xD/=D/well/=//Ugh/ok/no/damn/Good morning/=(等
+PRP Personal Pronoun #人称代词 I/you/he/she/it
+IN #前置，从属连词 for/if/on/of
+NN #一个或多个名词
+NNS #名词复数
+NNP #专有名词，单数
+NNPS #专有名词，复数
+PRP$ #所有格代词 my/her/our/your/its
+DT #限定词 this/that/the/a/some/all/no
+JJ #形容词
+JJS #形容词最高级 best/worst/greatest
+JJR #形容词比较级 more/happier/faster
+VB verb #动词
+VBP #动词，非第三人称
+VBZ #动词，第三人称
+VBN #动词，过去分词
+VBG #动词，现在分词
+RB #副词 just/so/still/to/really/already
+TO #to
+CD #基数 3/ten/one/35G/2011/2nd
+CC #并列连词 but/and/or
+HT 
+URL #链接
+RT #RT??
+WP #wh-代名词 who/what/whom
+WRB #wh-副词 when/where/how 
+WDT #wh-限定词 which/that(从句)
+MD #情态 could/might/will/should/can/may/would
+RBR #副词比较级 more
+POS #’s
+EX #存在 there/theres
+RP #语气词 off/out/up/on??
+SYM #+/---/&gt;
+TD #??
+FW #外来词
+. .
+: :
+, ,
+( (
+) )
+'' "
