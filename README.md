@@ -1,7 +1,7 @@
 # HMM-Machine_Learning
 Machine Learning project in SUTD, Singapore
 
-#In a nutshell
+#In A Nutshell
 
 POS and NPC files contain all the data and code needed for the word sequence tagger.
 When using it, simply comment unnecessary code of other parts and then run the file, you will get the accuracy and the output document respectively.
