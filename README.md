@@ -10,5 +10,5 @@ When using HMM(Hidden Markov Model), we applied smoothing technique to improve t
 
 
 Hope this will help you.
---Li Nayu--
---2015/12/10,2:48--
+
+--Li Nayu
