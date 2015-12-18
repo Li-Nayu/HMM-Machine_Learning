@@ -6,7 +6,7 @@ Machine Learning project in SUTD, Singapore
 POS and NPC files contain all the data and code needed for the word sequence tagger.
 When using it, simply comment unnecessary code of other parts and then run the file, you will get the accuracy and the output document respectively.
 The final accuracy for the POS tagger reach a leval of 82.2%. Considering there are 40+ tags, the score is fairly good.
-The accuracy of part5 with training data and develop data both to train the algorithm can reach 87.92% at the test dataset.We won No.1 among all the systems developed by the groups of this course.
+The accuracy of part5 with training data and develop data both to train the algorithm can reach #87.92% at the test dataset.We won No.1 among all the systems developed by the groups of this course.
 
 #NOTE
 
