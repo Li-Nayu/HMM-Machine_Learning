@@ -1,4 +1,6 @@
-# HMM-Machine_Learning
+HMM-Machine_Learning
+====================
+
 Machine Learning project in SUTD, Singapore
 
 #In A Nutshell
