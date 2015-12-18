@@ -14,5 +14,5 @@ The accuracy of part5 with training data and develop data both to train the algo
 
 When using HMM(Hidden Markov Model), we applied smoothing technique to improve the accuracy. Absolute discounting and word preprocessing is used in this project. I also recommend you to try Kneser Ney Smoothing, which may give even better result.
 
-
-#I want to use Machine Learning to Make Love with the world.
+----------------------------------------------------------
+I want to use Machine Learning to Make Love with the world.
