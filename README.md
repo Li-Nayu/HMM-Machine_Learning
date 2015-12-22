@@ -1,8 +1,8 @@
 Hidden Markov Model-Machine_Learning
 ====================================
-Machine Learning Design Project in SUTD, Singapore
+<h4>Machine Learning Design Project, Nature Language Process Using HMM, Developped in SUTD, Singapore</h4>
 
-#In A Nutshell
+#Overview
 * POS and NPC files contain all the data and code needed for the word sequence tagger.<br>
 * When using it, simply comment unnecessary code of other parts and then run the file, you will get the accuracy and the output document respectively.<br>
 * The final accuracy for the POS tagger reach a leval of `82.2%`. Considering there are `40+` tags, the score is fairly good.<br>
