@@ -1,6 +1,7 @@
 Hidden Markov Model-Machine_Learning
 ====================================
-<h4>Machine Learning Design Project, Nature Language Process Using HMM, Developped in SUTD, Singapore</h4>
+<h4>Nature Language Process Using Hidden Markov Model</h4>
+Machine Learning Design Project in SUTD, Singapore
 
 #Overview
 * POS and NPC files contain all the data and code needed for the word sequence tagger.<br>
