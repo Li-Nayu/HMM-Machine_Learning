@@ -1,4 +1,4 @@
-Hidden Markov Model-Machine_Learning
+Hidden Markov Model-Machine Learning
 ====================================
 <h4>Nature Language Process Using Hidden Markov Model</h4>
 Machine Learning Design Project in SUTD, Singapore
